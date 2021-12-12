@@ -1,3 +1,4 @@
+![PolarisMDQ](https://imgur.com/VooE8wW)
 <h1 align="center">Hola👋, soy Enrique Pyszczek</h1>
 <h3 align="center">Ofimática - Tecnico en Computacion Superior</h3>
 
@@ -8,9 +9,6 @@
 - 🤝 Soporte Tecnico **Polaris Informatica**
 
 - 📫 Me puedes contactar **polaris.mdq@gmail.com**
-
-
-
 
 ### Se Sobre / I know more about- </br>
 ![C++](https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=C%2B%2B&logoColor=00599C)
