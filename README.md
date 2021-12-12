@@ -1,4 +1,3 @@
-![PolarisMDQ](https://imgur.com/VooE8wW)
 <h1 align="center">Hola👋, soy Enrique Pyszczek</h1>
 <h3 align="center">Ofimática - Tecnico en Computacion Superior</h3>
 
